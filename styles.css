@@ -1,6 +1,6 @@
-  body {
+ body {
   margin: 20px;
-  background-image: url("images/toyota.png");
+  background: #f1f1f1;
   font-family: sans-serif;
   font-weight: bold;
 }
