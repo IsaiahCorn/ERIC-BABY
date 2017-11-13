@@ -84,7 +84,7 @@
 }
 
 @media screen and (max-width:800px) {
-	.container{
+	.child{
 		width:100vw;
 	}	
 }
