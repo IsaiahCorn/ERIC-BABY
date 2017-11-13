@@ -3,11 +3,11 @@
   background: #f1f1f1;
   font-family: sans-serif;
   font-weight: bold;
+display: flex;
+  flex-wrap: wrap;
 }
 
 .container {
-  display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
 }
 .child {
@@ -83,12 +83,8 @@
 
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:800px) {
 	.container{
 		width:50vw;
-	}
-	
-	
-	
-	
+	}	
 }
